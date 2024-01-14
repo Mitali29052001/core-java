@@ -24,7 +24,7 @@ class preDecrement{
 		System.out.println(b++);
 		System.out.println(a+b);
 		System.out.println(++a);
-		System.out.println(--a);
+		System.out.println(--a);/''''''''''
 		--a;
 		b++;
 		System.out.println(a);
